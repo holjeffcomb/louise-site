@@ -11,7 +11,7 @@ export default function Home() {
           height={200}
           className="rounded-lg w-full md:w-2/3 sm:w-1/2 m-auto"
         />
-        <div className="flex flex-col items-center lg:items-start">
+        <div className="flex flex-col items-center m-auto lg:items-start md:w-2/3 sm:w-1/2">
           <h2 className="text-2xl font-lilyScriptOne">Welcome</h2>
           <p>
             Platea dictumst quisque sagittis purus sit amet volutpat consequat
